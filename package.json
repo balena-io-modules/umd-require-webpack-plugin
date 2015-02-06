@@ -1,0 +1,11 @@
+{
+  "name": "umd-require-webpack-plugin",
+  "version": "0.0.1",
+  "author": "Pagan Gazzard <page@resin.io> (https://github.com/Page-)",
+  "description": "Allows using a UMD that passes require via a function",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:resin-io/umd-require-webpack-plugin.git"
+  },
+  "license": "MIT"
+}
